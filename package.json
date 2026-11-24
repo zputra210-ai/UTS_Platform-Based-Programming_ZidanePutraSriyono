@@ -1,0 +1,19 @@
+{
+  "name": "uts-project_zidane-putra-sriyono_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "Zidane",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.json",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
